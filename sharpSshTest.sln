@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sharpSshTest", "sharpSshTest.csproj", "{327E25D4-D8DF-4704-ABA3-274F8E777847}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327E25D4-D8DF-4704-ABA3-274F8E777847}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{327E25D4-D8DF-4704-ABA3-274F8E777847}.Debug|Default.Build.0 = Debug|Any CPU
+		{327E25D4-D8DF-4704-ABA3-274F8E777847}.Release|Default.ActiveCfg = Release|Any CPU
+		{327E25D4-D8DF-4704-ABA3-274F8E777847}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
